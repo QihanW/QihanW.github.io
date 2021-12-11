@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
 **[IPDPS 2022]** **Qihan Wang**, Bin Ren, Jie Chen, Robert G. Edwards. MICCO: An Enhanced Multi-GPU Scheduling Framework for Many-Body Correlation Functions. The 36th IEEE International Parallel & Distributed Processing Symposium (IPDPS). (acceptance rate in a preliminary decision: 9.7% = 46/474)
 
