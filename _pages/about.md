@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Computer Science](https://www.wm.edu/as/computerscience/index.php) at [William & Mary](https://www.wm.edu/), under the supervision of [Prof. Bin Ren](http://www.cs.wm.edu/~bren/). My research interets lie in High Performance Computing, CPU/GPU architecture, and machine learning. Before coming to W&M, I got my bachelor degree in Software Engineering from Beihang University in 2017.
+I am a Ph.D. candidate in the [Department of Computer Science](https://www.wm.edu/as/computerscience/index.php) at [William & Mary](https://www.wm.edu/), under the supervision of [Prof. Bin Ren](http://www.cs.wm.edu/~bren/). My research interets lie in High Performance Computing, CPU/GPU architecture, and machine learning. Before coming to W&M, I got my bachelor degree in Software Engineering from [Beihang University](https://ev.buaa.edu.cn/) in 2017.
 
 Publications
 ------
