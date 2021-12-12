@@ -13,19 +13,19 @@ I am a Ph.D. candidate in the Department of Computer Science at William & Mary, 
 Publications
 ------
 
-**[IPDPS 2022]** **Qihan Wang**, Bin Ren, Jie Chen, Robert G. Edwards. MICCO: An Enhanced Multi-GPU Scheduling Framework for Many-Body Correlation Functions. The 36th IEEE International Parallel & Distributed Processing Symposium (IPDPS). (acceptance rate in a preliminary decision: 9.7% = 46/474)
+**[IPDPS 2022]** **Qihan Wang**, Bin Ren, Jie Chen, Robert G. Edwards. MICCO: An Enhanced Multi-GPU Scheduling Framework for Many-Body Correlation Functions. The 36th IEEE International Parallel & Distributed Processing Symposium (IPDPS). (Acceptance rate in a preliminary decision: 9.7% = 46/474)
 
-**[TACO 2021]** **Qihan Wang**, Zhen Peng, Bin Ren, Jie Chen, Robert G. Edwards. MemHC: An Optimized GPU Memory Management Framework for Accelerating Many-body Correlation. ACM Transactions on Architecture and Code Optimization (ACM TACO).
+**[TACO 2021]** **Qihan Wang**, Zhen Peng, Bin Ren, Jie Chen, Robert G. Edwards. MemHC: An Optimized GPU Memory Management Framework for Accelerating Many-body Correlation. ACM Transactions on Architecture and Code Optimization (ACM TACO). (Original Work)
 
-**[HiPC 2021]** **Qihan Wang**, Wei Niu, Li Chen, Ruoming Jin, Bin Ren. HEALS: A Parallel eALS Recommendation System on CPU/GPU Heterogeneous Platforms. The 28th IEEE International Conference on High Performance Computing, Data, & Analytics (HiPC). (acceptance rate: 23%)
+**[HiPC 2021]** **Qihan Wang**, Wei Niu, Li Chen, Ruoming Jin, Bin Ren. HEALS: A Parallel eALS Recommendation System on CPU/GPU Heterogeneous Platforms. The 28th IEEE International Conference on High Performance Computing, Data, & Analytics (HiPC). (Acceptance rate: 23%)
 
 **[Smart Health 2020]** **Qihan Wang**, Gang Zhou, Zhenming Liu, Bin Ren. Building a skeleton-based 3D body model with angle sensor data. Elsevier Smart Health 2020.
 
 Professional Experience
 ------
-**Research Assistant**: Jeffersion Lab (sponsored), William & Mary. (2019 - Present)
+**Research Assistant**: Jeffersion Lab (co-sponsored), William & Mary. 2019 - Present
 
-**Teaching Assistant**: Lab TA: CSCI 140L Prog for Data Science; Lab TA: DATA 141L Prog for Data Science; Lab TA: CSCI 141L Computational Prob; Grading TA: CSCI 241 Data Structures. William & Mary. (2017 - 2019)
+**Teaching Assistant**: Lab TA: CSCI 140L Prog for Data Science; Lab TA: DATA 141L Prog for Data Science; Lab TA: CSCI 141L Computational Prob; Grading TA: CSCI 241 Data Structures. William & Mary. 2017 - 2019
 
 **Sub-reviewer**: IPDPS '22, HiPC '21, IPDPS '21, ICS '21, ICCD '20, TPDS-SS-AI '20, NPC '20, Bench '20, HiPC '19, Bench '19, NPC '19.
 
