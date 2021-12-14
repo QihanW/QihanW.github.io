@@ -31,6 +31,6 @@ Professional Experience
 
 Awards
 ------
-- A&S Fellowship Scholarship, William & Mary. 2017-2019
+- 2017-2019 Recruitment Fellowship, William & Mary 
 - ASPLOS 2018 Student Traverl Grants
 - vGHC Student Grant 2020
