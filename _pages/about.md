@@ -23,7 +23,7 @@ Publications
 
 Professional Experience
 ------
-**Research Assistant**: Thomas Jefferson National Accelerator Facility ([Jefferson Lab](https://www.jlab.org/))(Co-sponsored), William & Mary. 2019 - Present
+**Research Assistant**: Thomas Jefferson National Accelerator Facility ([Jefferson Lab](https://www.jlab.org/)), William & Mary (Co-sponsored). 2019 - Present
 
 **Teaching Assistant**: Lab TA: CSCI 140L Prog for Data Science; Lab TA: DATA 141L Prog for Data Science; Lab TA: CSCI 141L Computational Prob; Grading TA: CSCI 241 Data Structures. William & Mary. 2017 - 2019
 
