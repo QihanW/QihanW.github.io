@@ -33,4 +33,4 @@ Awards
 ------
 - 2017-2019 Recruitment Fellowship, William & Mary 
 - ASPLOS 2018 Student Traverl Grants
-- vGHC Student Grant 2020
+- 2020 vGHC Student Grant
