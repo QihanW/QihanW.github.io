@@ -12,7 +12,7 @@ I am a Ph.D. candidate in the [Department of Computer Science](https://www.wm.ed
 
 News
 ------
-Exascale Computing Project (ECP) published a summary of our work: [*"MemHC Optimizes Many-body Correlation Function Vital to Physics Computing"*](https://www.exascaleproject.org/publication/memhc-optimizes-many-body-correlation-function-vital-to-physics-computing/) in their website!
+[Exascale Computing Project (ECP)](https://www.exascaleproject.org/) published a featured publication summary of our work: [*"MemHC Optimizes Many-body Correlation Function Vital to Physics Computing"*](https://www.exascaleproject.org/publication/memhc-optimizes-many-body-correlation-function-vital-to-physics-computing/) in their website!
 
 Publications
 ------
