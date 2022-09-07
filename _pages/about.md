@@ -10,6 +10,10 @@ redirect_from:
 
 I am a Ph.D. candidate in the [Department of Computer Science](https://www.wm.edu/as/computerscience/index.php) at [William & Mary](https://www.wm.edu/), under the supervision of [Prof. Bin Ren](http://www.cs.wm.edu/~bren/). My research interets lie in High Performance Computing, CPU/GPU architecture, and machine learning. Before coming to W&M, I got my bachelor degree in Software Engineering from [Beihang University](https://ev.buaa.edu.cn/) in 2017.
 
+News
+------
+Exascale Computing Project (ECP) published a summary of our work: [*"MemHC Optimizes Many-body Correlation Function Vital to Physics Computing"*](https://www.exascaleproject.org/publication/memhc-optimizes-many-body-correlation-function-vital-to-physics-computing/) in their website!
+
 Publications
 ------
 
