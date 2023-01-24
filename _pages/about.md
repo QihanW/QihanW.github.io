@@ -12,7 +12,10 @@ I am a Ph.D. candidate in the [Department of Computer Science](https://www.wm.ed
 
 News
 ------
-[Exascale Computing Project (ECP)](https://www.exascaleproject.org/) published a featured publication summary of our work: [*"MemHC Optimizes Many-body Correlation Function Vital to Physics Computing"*](https://www.exascaleproject.org/publication/memhc-optimizes-many-body-correlation-function-vital-to-physics-computing/) in their website!
+
+- I am working in [Cruise LLC](https://getcruise.com/) as a senior SWE at Machine Learning Platform team!
+
+- Our research work: [*"MemHC Optimizes Many-body Correlation Function Vital to Physics Computing"*](https://www.exascaleproject.org/publication/memhc-optimizes-many-body-correlation-function-vital-to-physics-computing/) was published as a press report by [Exascale Computing Project (ECP)](https://www.exascaleproject.org/), [Techxplore](https://techxplore.com/news/2022-11-memhc-optimized-gpu-memory-framework.html), and [News8plus](https://news8plus.com/memhc-an-optimized-gpu-memory-management-framework-for-accelerating-many-body-correlation-functions/).
 
 Publications
 ------
