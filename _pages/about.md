@@ -18,7 +18,7 @@ News
 Publications
 ------
 
-**[IPDPS 2022]** **Qihan Wang**, Bin Ren, Jie Chen, Robert G. Edwards. MICCO: An Enhanced Multi-GPU Scheduling Framework for Many-Body Correlation Functions. The 36th IEEE International Parallel & Distributed Processing Symposium (IPDPS). (Acceptance rate in a preliminary decision: 9.7% = 46/474) [[pdf]](https://ieeexplore.ieee.org/document/9820666))
+**[IPDPS 2022]** **Qihan Wang**, Bin Ren, Jie Chen, Robert G. Edwards. MICCO: An Enhanced Multi-GPU Scheduling Framework for Many-Body Correlation Functions. The 36th IEEE International Parallel & Distributed Processing Symposium (IPDPS). (Acceptance rate in a preliminary decision: 9.7% = 46/474) [[pdf]](https://ieeexplore.ieee.org/document/9820666)
 
 **[TACO 2021]** **Qihan Wang**, Zhen Peng, Bin Ren, Jie Chen, Robert G. Edwards. MemHC: An Optimized GPU Memory Management Framework for Accelerating Many-body Correlation. ACM Transactions on Architecture and Code Optimization (ACM TACO). (Original Work) [[pdf]](https://dl.acm.org/doi/10.1145/3506705)
 
